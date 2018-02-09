@@ -26,7 +26,7 @@ cin>> AlphaLetter;
  
 
 else{
-  cout<<AlphaLetter<<" ?! Pssh. What are you talking about?\n";
+  cout<<AlphaLetter<<"?! Pssh. What are you talking about?\n";
   
 }
 
